@@ -1,14 +1,9 @@
-﻿Build started 12/27/2013 11:07:03 AM.
-     1>Project "C:\Users\Owner\Documents\gitOpenGL\CSE470_Proj1\Misc\Misc.vcxproj" on node 2 (Build target(s)).
-     1>ClCompile:
-         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt Main.cpp
-         Main.cpp
-     1>c:\users\owner\documents\gitopengl\cse470_proj1\misc\main.cpp(308): warning C4018: '<' : signed/unsigned mismatch
-       Link:
-         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Owner\Documents\gitOpenGL\CSE470_Proj1\Debug\Misc.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib glut32.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\Owner\Documents\gitOpenGL\CSE470_Proj1\Debug\Misc.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Owner\Documents\gitOpenGL\CSE470_Proj1\Debug\Misc.lib" /MACHINE:X86 Debug\Main.obj
-         Misc.vcxproj -> C:\Users\Owner\Documents\gitOpenGL\CSE470_Proj1\Debug\Misc.exe
-     1>Done Building Project "C:\Users\Owner\Documents\gitOpenGL\CSE470_Proj1\Misc\Misc.vcxproj" (Build target(s)).
+﻿Build started 2/23/2014 5:03:34 PM.
+     1>Project "C:\Users\Allen\Desktop\CSE470_Proj1\Misc\Misc.vcxproj" on node 2 (clean target(s)).
+     1>_PrepareForClean:
+         Deleting file "Debug\Misc.lastbuildstate".
+     1>Done Building Project "C:\Users\Allen\Desktop\CSE470_Proj1\Misc\Misc.vcxproj" (clean target(s)).
 
 Build succeeded.
 
-Time Elapsed 00:00:02.96
+Time Elapsed 00:00:00.01
